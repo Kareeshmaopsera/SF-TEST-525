@@ -104,12 +104,4 @@
         <name>sf_app2</name>
         <type>CustomApplication</type>
     </appMenuItems>
-<appMenuItems>
-        <name>DEVHUB_uljctdtf35u9wvkzazlj</name>
-        <type>ConnectedApp</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__Commerce</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
 </AppMenu>
