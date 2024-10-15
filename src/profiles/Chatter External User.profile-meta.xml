@@ -235,6 +235,15 @@
         <enabled>false</enabled>
     </classAccesses>
     <custom>false</custom>
+    <layoutAssignments>
+        <layout>AD_grp__c-AD_grp Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ActiveScratchOrg-Active Scratch Org Layout</layout>
+    </layoutAssignments>
     <userLicense>Chatter External</userLicense>
     <userPermissions>
         <enabled>true</enabled>
